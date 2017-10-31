@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--xiao add -->
+    <color name="halfapha_red">#44FF0000</color>
+    <color name="header_bottom_color">#ededed</color>
+    <color name="radio_text_unchecked_color">#686868</color>
+    <color name="division_color">#FFE1E1E4</color>
+    <color name="noEnable_color">#888888</color>
+    <color name="time_stopwatch_btnParent_bg">#f5f5f5</color>
+    <color name="green">#2ac795</color>
+    <color name="item_bg_press">#c0c0c0</color>
+    <color name="shadow_view">#ececec</color>
+    <color name="shadow_view1">#f1f1f1</color>
+    <color name="button_pressed">#e2e7ee</color>
+
+</resources>
